@@ -1,0 +1,21 @@
+{
+  "_comment": "司法書士試験 本試験日程。法務省発表後（例年 4 月頃）に年 1 回更新。",
+  "updated_at": "2026-06-03",
+  "year": 2026,
+  "era": "令和8年度",
+  "items": [
+    { "phase": "願書配布期間", "date_start": "2026-04-01", "date_end": "2026-05-18", "note": "土日祝除く" },
+    { "phase": "受験申請受付", "date_start": "2026-05-07", "date_end": "2026-05-18", "note": "実質約 8 日間、窓口は平日のみ" },
+    { "phase": "筆記試験日", "date_start": "2026-07-05", "date_end": "2026-07-05", "note": "日曜日。午前の部 + 午後の部 + 記述式" },
+    { "phase": "基準点・正解発表", "date_start": "2026-08-12", "date_end": "2026-08-12", "note": "16:00" },
+    { "phase": "筆記試験結果発表", "date_start": "2026-10-01", "date_end": "2026-10-01", "note": "16:00" },
+    { "phase": "口述試験", "date_start": "2026-10-13", "date_end": "2026-10-13", "note": "筆記合格者のみ" },
+    { "phase": "最終合格発表", "date_start": "2026-11-05", "date_end": "2026-11-05", "note": "16:00" }
+  ],
+  "fee": "8,000 円（収入印紙）",
+  "applyMethod": "法務局・地方法務局の窓口、または郵送",
+  "resultSites": [
+    { "name": "法務省 受験案内", "url": "https://www.moj.go.jp/MINJI/minji05_00756.html" },
+    { "name": "法務省 司法書士試験", "url": "https://www.moj.go.jp/shikaku_saiyo_index3.html" }
+  ]
+}
