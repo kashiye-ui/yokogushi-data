@@ -1,0 +1,50 @@
+{
+  "_comment": "行政書士試験 本試験日程。試験研究センター発表後（例年 7 月）に年 1 回更新。",
+  "updated_at": "2026-06-03",
+  "year": 2026,
+  "era": "令和8年度",
+  "items": [
+    {
+      "phase": "願書配布期間",
+      "date_start": "2026-07-21",
+      "date_end": "2026-08-17",
+      "note": "郵送請求も同期間"
+    },
+    {
+      "phase": "受験申込（郵送）",
+      "date_start": "2026-07-21",
+      "date_end": "2026-08-17",
+      "note": "消印有効"
+    },
+    {
+      "phase": "受験申込（ネット）",
+      "date_start": "2026-07-21",
+      "date_end": "2026-08-24",
+      "note": "ネットのみ +1 週間長い"
+    },
+    {
+      "phase": "筆記試験日",
+      "date_start": "2026-11-08",
+      "date_end": "2026-11-08",
+      "note": "日曜日 13:00〜16:00（3 時間）"
+    },
+    {
+      "phase": "合格発表",
+      "date_start": "2027-01-27",
+      "date_end": "2027-01-27",
+      "note": "行政書士試験研究センター HP"
+    }
+  ],
+  "fee": "10,400 円",
+  "applyMethod": "行政書士試験研究センター（郵送 / インターネット）",
+  "resultSites": [
+    {
+      "name": "行政書士試験研究センター",
+      "url": "https://gyosei-shiken.or.jp/"
+    },
+    {
+      "name": "試験案内",
+      "url": "https://gyosei-shiken.or.jp/doc/guide/guide.html"
+    }
+  ]
+}
