@@ -1,6 +1,6 @@
 {
-  "_comment": "行政書士試験 主要予備校の直前期特別講座ダイジェスト。月 1 程度で手動更新（_INBOX 経由）。",
-  "updated_at": "2026-06-03",
+  "_comment": "行政書士試験 主要予備校の直前期特別講座ダイジェスト。掲載許諾の確認が取れた予備校のみ掲載。月 1 程度で手動更新。",
+  "updated_at": "2026-06-26",
   "providers": [
     {
       "name": "LEC",
@@ -13,42 +13,6 @@
       ],
       "dates": [],
       "dates_note": "公式サイトで最新日程をご確認ください"
-    },
-    {
-      "name": "TAC",
-      "full_name": "資格の学校 TAC",
-      "url": "https://www.tac-school.co.jp/kouza_gyosei/gyosei_crs_tourenpack.html",
-      "highlights": [
-        "答練パック（基礎答練 + 直前答練 + 模試）",
-        "全国公開模試（3 回、9〜10 月）",
-        "通学・通信両対応"
-      ],
-      "dates": [],
-      "dates_note": "公式サイトで最新日程をご確認ください"
-    },
-    {
-      "name": "伊藤塾",
-      "full_name": "伊藤塾",
-      "url": "https://www.itojuku.co.jp/shiken/gyosei/",
-      "highlights": [
-        "プレ模試（実力診断、3,000 円）",
-        "公開模擬試験（4 回、本試験形式）",
-        "直前対策講座（うかる！択一・記述）"
-      ],
-      "dates": [],
-      "dates_note": "通学校開催の最新情報は公式サイトで"
-    },
-    {
-      "name": "アガルート",
-      "full_name": "アガルートアカデミー",
-      "url": "https://www.agaroot.jp/gyosei/",
-      "highlights": [
-        "模試はオンライン（8/20〜11/30 利用可、本試験直前まで活用可）",
-        "豊村クラス・林クラスなど人気講師",
-        "合格者向け返金制度あり"
-      ],
-      "dates": [],
-      "dates_note": "詳細・申込は公式サイトで"
     }
   ]
 }
